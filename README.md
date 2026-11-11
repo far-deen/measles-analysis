@@ -57,4 +57,4 @@ Analysis was run on R 4.6.0 (2026-04-24 ucrt), Windows 11 x64.
 
 ## Author
 
-Nawaz Hossain Fardin ([nawazfardin3-art](https://github.com/nawazfardin3-art))
+Nawaz Hossain Fardin ([far-deen](https://github.com/far-deen))
